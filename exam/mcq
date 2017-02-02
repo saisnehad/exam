@@ -1,0 +1,7 @@
+9.when we search for an element the arraylist is faster than the linked list. As the arraylist search based on the index 
+position where as linked list search based on the number of items.
+in the linked list or the arraylist we remove the objects, index and collections as 
+remove(index)
+remove(object) 
+
+10. c
